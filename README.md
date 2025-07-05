@@ -25,4 +25,4 @@
 所有视频均支持在线播放，高清画质自动加载，无需下载，不限次数观看。支持多终端访问，无论是手机、平板还是电脑，都能快速播放不卡顿。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/nina4562/745655 ）</span>
